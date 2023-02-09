@@ -1,0 +1,26 @@
+{
+  "$schema": "https://comp-public-1303824488.cos.ap-shanghai.myqcloud.com/schema/lcds_component.json",
+  "data": {
+    "type": "object",
+    "properties": {
+      "src": {
+        "title": "tabbar",
+        "default": "https://www.cnblogs.com/-nothing-/p/7910355.html",
+        "type": "string"
+      }
+    }
+  },
+  "events": [
+    {
+      "name": "customevent",
+      "title": "自定义事件"
+    }
+  ],
+  "meta": {
+    "title": "tabbar",
+    "description": "tabbar组件测试",
+    "icon": "../icons/button.svg",
+    "category": "表单",
+    "componentOrder": 3
+  }
+}

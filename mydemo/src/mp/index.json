@@ -1,0 +1,11 @@
+{
+  "components": {
+    "Button": "components/button/index",
+    "video": "components/video/index",
+    "Counter": "components/counter/index",
+    "tabbar": "components/tabbar/index"
+  },
+  "actions": {
+    "showToast": "actions/showToast/index"
+  }
+}
